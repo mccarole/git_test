@@ -10,6 +10,9 @@ namespace git_test
     {
         static void Main(string[] args)
         {
+            De unDe = new De
+                Console.WriteLine(leBonNombre)
+                Console.ReadKey()
         }
     }
 }
